@@ -9,6 +9,8 @@ This course, also known primarily as **Java2**, takes a deeper look at Java. Som
 ## Update Rules
 1. I will try my best to update it once a week
 2. I will try my best to update it in both Chinese and English
-3. 
+
+## Uploaded part(s)
+Chapter 2 & Lab 2 -- generic, ADT, collections
 
 
