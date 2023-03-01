@@ -8,13 +8,16 @@ This course, also known primarily as **Java2**, takes a deeper look at Java. Som
 
 ## Update Rules
 1. I will try my best to update it once a week
-2. I will try my best to update it in both Chinese and English
+
+~~2. I will try my best to update it in both Chinese and English~~
 
 ## Some expectations of the author:
 If you feel that these documents have helped you, you can light up a small **star** in the upper right corner
 
 ## Uploaded part(s)
 Chapter 2 & Lab 2 -- generic, ADT, collections
+
+Chapter 3 & Lab 3 -- functional programming, lambda expression
 
 
 
@@ -29,10 +32,13 @@ Chapter 2 & Lab 2 -- generic, ADT, collections
 
 ## 更新规则
 1.我会尽量每周更新一次
-2.我会尽量更新中英文版本
+
+~~2.我会尽量更新中英文版本~~
 
 ## 作者的一些期待：
 如果你觉得这些文件给予了你帮助，你可以在右上角Star出点亮一个小星星
 
 ## 上传的部分
-第 2 章和实验 2——泛型、抽象数据类型、集合
+第 2 章和实验 2 -- 泛型、抽象数据类型、集合
+
+第 3 章和实验 3 -- 函数式编程，lambda 表达式
