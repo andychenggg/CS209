@@ -7,7 +7,7 @@ The structure of this summary is mainly derived from the course materials and ex
 This course, also known primarily as **Java2**, takes a deeper look at Java. Some of the more basic grammer details and language features are presented in a file called **CS102A.pdf**, representing the course **Introduction to Computer Programming**.
 
 ## Update Rules
-1. I will try my best to update it once a week
+1.I will try my best to update it once a week
 
 ~~2. I will try my best to update it in both Chinese and English~~
 
