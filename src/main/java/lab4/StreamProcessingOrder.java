@@ -43,14 +43,13 @@ public class StreamProcessingOrder {
                 })
                 .filter(s -> {
                     System.out.println("filter: " + s);
-//                    return s.startsWith("C");
-                    return true;
+                    return s.startsWith("C") || s.startsWith("A");
+//                    return true;
                 })
                 .map(s -> {
                     System.out.println("map: " + s);
                     return s.toLowerCase();
                 })
-                .limit(10)
                 .forEach(s -> System.out.println("forEach: " + s));
         //output:
         //sort: CS; 209
