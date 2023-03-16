@@ -15,9 +15,16 @@ This course, also known primarily as **Java2**, takes a deeper look at Java. Som
 If you feel that these documents have helped you, you can light up a small **star** in the upper right corner
 
 ## Uploaded part(s)
+
+How to use Git after installation?
+
 Chapter 2 & Lab 2 -- generic, ADT, collections
 
 Chapter 3 & Lab 3 -- functional programming, lambda expression
+
+Chapter 4 & Lab 4 -- Stream<T>, Optional<T>
+
+Assignment 1 notes: Regular Expression
 
 
 
@@ -39,6 +46,13 @@ Chapter 3 & Lab 3 -- functional programming, lambda expression
 如果你觉得这些文件给予了你帮助，你可以在右上角Star出点亮一个小星星
 
 ## 上传的部分
+
+Git安装后如何使用？
+
 第 2 章和实验 2 -- 泛型、抽象数据类型、集合
 
 第 3 章和实验 3 -- 函数式编程，lambda 表达式
+
+第 4 章和实验 4 -- Stream<T>、Optional<T>
+
+作业 1 笔记：正则表达式
