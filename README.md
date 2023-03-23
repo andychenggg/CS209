@@ -22,7 +22,9 @@ Chapter 2 & Lab 2 -- generic, ADT, collections
 
 Chapter 3 & Lab 3 -- functional programming, lambda expression
 
-Chapter 4 & Lab 4 -- Stream<T>, Optional<T>
+Chapter 4 & Lab 4 -- Stream\<T\>, Optional\<T\>
+
+Chapter 5 & Lab 5 -- Encoding, I/O
 
 Assignment 1 notes: Regular Expression
 
@@ -53,6 +55,8 @@ Git安装后如何使用？
 
 第 3 章和实验 3 -- 函数式编程，lambda 表达式
 
-第 4 章和实验 4 -- Stream<T>、Optional<T>
+第 4 章和实验 4 -- Stream\<T\>、Optional\<T\>
+
+第 5 章和实验 5 -- 编码，I/O
 
 作业 1 笔记：正则表达式
